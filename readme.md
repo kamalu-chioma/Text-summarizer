@@ -70,4 +70,4 @@ Each folder contains a **Jupyter Notebook** (`.ipynb`) that implements the summa
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/text-summarization.git
+   git clone https://github.com/kamalu-chioma/Text-summarizer/.git
