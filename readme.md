@@ -34,7 +34,7 @@ Each folder contains a separate implementation of the summarization technique. Y
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/# Text Summarization Using Various Approaches
+   git clone https://github.com/kamalu-chioma/Text-summarizer.git
 
 This repository implements and compares different techniques for text summarization using sentence embeddings and ranking algorithms. The core idea is to represent sentences as vectors and rank them using PageRank, but the methods for vectorization vary across approaches.
 
