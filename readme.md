@@ -28,7 +28,7 @@ This repository implements and compares different techniques for text summarizat
 - **Strength**: Retains more individual word meaning.
 - **Weakness**: Increases dimensionality and can become inefficient for longer sentences.
 
-## How to Use
+## How to use
 
 Each folder contains a separate implementation of the summarization technique. You can navigate to the specific folder for each method and run the `main.py` file to test that approach.
 
