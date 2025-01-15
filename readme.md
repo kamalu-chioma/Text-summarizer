@@ -66,7 +66,7 @@ This repository implements and compares different techniques for text summarizat
 
 ## How to Use
 
-Each folder contains a **Jupyter Notebook** (`.ipynb`) that implements the summarization technique. You can navigate to the specific folder for each method and run the notebook to test that approach.
+Each folder contains a **Jupyter Notebook** (`.ipynb`) that implements the summarization technique. You can navigate to the specific folder for each method and run the notebook to test the approach.
 
 1. **Clone the repository**:
    ```bash
