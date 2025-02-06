@@ -27,5 +27,5 @@ This folder contains the implementation of text summarization using **GloVe word
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/text-summarization.git
+git clone https://github.com/kamalu-chioma/text-summarization.git
 cd text-summarization/glove_average
