@@ -1,4 +1,4 @@
-##### Text Summarization Using Various Approaches
+# Text Summarization Using Various Approaches
 
 This repository implements and compares different techniques for text summarization using sentence embeddings and ranking algorithms. The core idea is to represent sentences as vectors and rank them using PageRank, but the methods for vectorization vary across approaches.
 
