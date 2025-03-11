@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains the implementation of text summarization using **GloVe word embeddings** combined with **average word vectors** to represent sentences. The approach involves converting each sentence into a single vector by averaging the GloVe vectors of the words in the sentence and then applying the **PageRank algorithm** to rank sentences based on their importance.
+This folder contains the implementation of text summarization using **GloVe word embeddings** combined with average word vectors to represent sentences. The approach involves converting each sentence into a single vector by averaging the GloVe vectors of the words in the sentence and then applying the **PageRank algorithm** to rank sentences based on their importance.
 
 ## Process
 
