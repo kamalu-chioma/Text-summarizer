@@ -1,4 +1,4 @@
-# GloVe + Average Word Vectors for Text Summarization
+# Using GloVe + Average Word Vectors for Text Summarization
 
 ## Overview
 
